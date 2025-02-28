@@ -7,7 +7,7 @@ The AI-Agents project aims to build AI workflows to replace the tedious and time
 For this great endeavor, I am willing to contribute my part voluntarily. I will delegate the tedious tasks in my life to AI, which is a good start. I believe AI will generate significant wealth and make people in all industries marvel: wow, this AI is truly remarkable!
 
 ## Project Goals
-Apart from selling courses, providing AI code, and AI customer service, what else can we do? Let's bring AI from ideals to reality; we need this kind of enthusiasm.
+Apart from selling courses, providing AI code, and AI customer service, what else can we do? Let's bring AI from ideals to reality; we need this kind of madness.
 
 ## Plan Checklist
 - [ ] API Availability Monitoring
