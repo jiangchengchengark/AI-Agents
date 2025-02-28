@@ -11,6 +11,6 @@ Apart from selling courses, providing AI code, and AI customer service, what els
 
 ## Plan Checklist
 - [ ] API Availability Monitoring
-- [ ] Movie Recommendation
+- [ ] Movie guide
 - [ ] Career Advisor
 - [ ] Virtual Writer
